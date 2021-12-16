@@ -10,6 +10,10 @@ public class SourceCodeJava {
 		
 		System.out.println("venus");
 		
+		System.out.println("earth");
+		
+		System.out.println("jupiter");
+		
 	}
 	
 }
